@@ -171,7 +171,7 @@
   "gsd-core/templates/milestone.md": "74d2f750ae9f4a9c",
   "gsd-core/templates/phase-prompt.md": "213ccd947451ff2b",
   "gsd-core/templates/planner-subagent-prompt.md": "6c9f1b23ee3dc05f",
-  "gsd-core/templates/project.md": "1f687c7a88381080",
+  "gsd-core/templates/project.md": "ae1f68db042c2522",
   "gsd-core/templates/requirements.md": "a44de4c2f146e473",
   "gsd-core/templates/research-project/ARCHITECTURE.md": "746b9ef791d758b0",
   "gsd-core/templates/research-project/FEATURES.md": "f2b800de5df91b0f",
@@ -224,7 +224,7 @@
   "gsd-core/workflows/discuss-phase/templates/checkpoint.json": "e3bc3dca49db59eb",
   "gsd-core/workflows/discuss-phase/templates/context.md": "6cd929e989fe2b0f",
   "gsd-core/workflows/discuss-phase/templates/discussion-log.md": "1bbd7703f11128e1",
-  "gsd-core/workflows/do.md": "1f0dc350abac269a",
+  "gsd-core/workflows/do.md": "c977321ddd9d9690",
   "gsd-core/workflows/docs-update.md": "12433c1e3cf9e40e",
   "gsd-core/workflows/edit-phase.md": "4ba06a05cb29f3b7",
   "gsd-core/workflows/eval-review.md": "0ab8368c8edf91fb",
@@ -262,6 +262,7 @@
   "gsd-core/workflows/next.md": "80f2feb243818c90",
   "gsd-core/workflows/node-repair.md": "07a1628e5a1ff96b",
   "gsd-core/workflows/note.md": "42b66686b2c102cb",
+  "gsd-core/workflows/onboard.md": "ffe43ad118aadda6",
   "gsd-core/workflows/pause-work.md": "54f1c0a9e79e2c59",
   "gsd-core/workflows/plan-milestone-gaps.md": "1b820f4e70acce86",
   "gsd-core/workflows/plan-phase.md": "574fc8008416e6a7",
@@ -343,7 +344,7 @@
   "skills/gsd-ns-context/skills/docs-update/SKILL.md": "3d41e81ec571de60",
   "skills/gsd-ns-context/skills/extract-learnings/SKILL.md": "8d38e55e5f8b774b",
   "skills/gsd-ns-context/skills/graphify/SKILL.md": "ac3661e6e576188b",
-  "skills/gsd-ns-context/skills/map-codebase/SKILL.md": "5009595dbde69739",
+  "skills/gsd-ns-context/skills/map-codebase/SKILL.md": "cf65e61890448285",
   "skills/gsd-ns-context/skills/mempalace-capture/SKILL.md": "e9b66db79fce0a2f",
   "skills/gsd-ns-context/skills/mempalace-recall/SKILL.md": "9bfa9e76c7a10e26",
   "skills/gsd-ns-ideate/SKILL.md": "4a0d2691054b23e5",
@@ -409,5 +410,6 @@
   "skills/gsd-ns-workflow/skills/quick/SKILL.md": "bd5e4cb79bc41611",
   "skills/gsd-ns-workflow/skills/spec-phase/SKILL.md": "7e4dfa2070b7d9d1",
   "skills/gsd-ns-workflow/skills/ultraplan-phase/SKILL.md": "2d78c7b16aabebce",
-  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "4e7825f61f3cf69c"
+  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "4e7825f61f3cf69c",
+  "skills/gsd-onboard/SKILL.md": "db206de96600b7c3"
 }
