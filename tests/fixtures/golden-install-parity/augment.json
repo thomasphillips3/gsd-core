@@ -73,7 +73,7 @@
   "commands/gsd-ns-context.md": "011c44e7aa46e64a",
   "commands/gsd-ns-ideate.md": "edc5e543512dd48a",
   "commands/gsd-ns-manage.md": "0409d810e499357f",
-  "commands/gsd-ns-project.md": "8dfd1b9a2ffe86ac",
+  "commands/gsd-ns-project.md": "ff67e85bc6f7fc5a",
   "commands/gsd-ns-review.md": "3766ed10827882a0",
   "commands/gsd-ns-workflow.md": "c3b3c046a74ec0ee",
   "commands/gsd-onboard.md": "9eda3fbfa769b770",
@@ -333,7 +333,7 @@
   "gsd-core/workflows/next.md": "48bd4b5d54f0d1f8",
   "gsd-core/workflows/node-repair.md": "07a1628e5a1ff96b",
   "gsd-core/workflows/note.md": "5a99eb396c744619",
-  "gsd-core/workflows/onboard.md": "5d3d655b5ab516db",
+  "gsd-core/workflows/onboard.md": "8e172bf3ce654329",
   "gsd-core/workflows/pause-work.md": "7bcbdf27ba957c8b",
   "gsd-core/workflows/plan-milestone-gaps.md": "02fee851c82e3b25",
   "gsd-core/workflows/plan-phase.md": "dc0beefd1316a860",
@@ -443,7 +443,7 @@
   "skills/gsd-ns-manage/skills/update/SKILL.md": "c8165b8085ba106a",
   "skills/gsd-ns-manage/skills/workspace/SKILL.md": "98cc03aa8c735e9d",
   "skills/gsd-ns-manage/skills/workstreams/SKILL.md": "94d00b5116523f36",
-  "skills/gsd-ns-project/SKILL.md": "4d7e3c3870536dc9",
+  "skills/gsd-ns-project/SKILL.md": "ae47130ec878de8c",
   "skills/gsd-ns-project/skills/audit-milestone/SKILL.md": "6d4c77390c549fc7",
   "skills/gsd-ns-project/skills/complete-milestone/SKILL.md": "0af489daf6fd3f16",
   "skills/gsd-ns-project/skills/import/SKILL.md": "a3cfa7abc5ddd26d",
@@ -451,6 +451,7 @@
   "skills/gsd-ns-project/skills/milestone-summary/SKILL.md": "18dc0c134cb62657",
   "skills/gsd-ns-project/skills/new-milestone/SKILL.md": "a94ff34b09e17a98",
   "skills/gsd-ns-project/skills/new-project/SKILL.md": "81f681f54ca61f90",
+  "skills/gsd-ns-project/skills/onboard/SKILL.md": "24d08e9dd115777d",
   "skills/gsd-ns-project/skills/profile-user/SKILL.md": "68b015a40d386bff",
   "skills/gsd-ns-project/skills/review-backlog/SKILL.md": "0f25310aa0cd48f6",
   "skills/gsd-ns-review/SKILL.md": "d7567fd9a75a5c21",
@@ -481,6 +482,5 @@
   "skills/gsd-ns-workflow/skills/quick/SKILL.md": "014dec52d85dcb0e",
   "skills/gsd-ns-workflow/skills/spec-phase/SKILL.md": "2f88d0fc0c1abefe",
   "skills/gsd-ns-workflow/skills/ultraplan-phase/SKILL.md": "8673b6e4fc14d0ec",
-  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "b92b0e8428a8e80c",
-  "skills/gsd-onboard/SKILL.md": "24d08e9dd115777d"
+  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "b92b0e8428a8e80c"
 }

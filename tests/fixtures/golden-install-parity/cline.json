@@ -265,7 +265,7 @@
   "gsd-core/workflows/next.md": "e64c75922be6d8e2",
   "gsd-core/workflows/node-repair.md": "07a1628e5a1ff96b",
   "gsd-core/workflows/note.md": "5a99eb396c744619",
-  "gsd-core/workflows/onboard.md": "73dd744c20253dc9",
+  "gsd-core/workflows/onboard.md": "ace694168d043f67",
   "gsd-core/workflows/pause-work.md": "9c1acf8c30a244fd",
   "gsd-core/workflows/plan-milestone-gaps.md": "95ca791b0867fe2d",
   "gsd-core/workflows/plan-phase.md": "e4256d987d376112",
@@ -353,7 +353,7 @@
   "skills/gsd-ns-manage/skills/update/SKILL.md": "2666ab7786b69017",
   "skills/gsd-ns-manage/skills/workspace/SKILL.md": "c2616b157ec2350b",
   "skills/gsd-ns-manage/skills/workstreams/SKILL.md": "737841783c7fdd4f",
-  "skills/gsd-ns-project/SKILL.md": "5668e3a5e1d8896d",
+  "skills/gsd-ns-project/SKILL.md": "fac77a9e770fd655",
   "skills/gsd-ns-project/skills/audit-milestone/SKILL.md": "739ed755ad84e58e",
   "skills/gsd-ns-project/skills/complete-milestone/SKILL.md": "a69d534b385d6aaf",
   "skills/gsd-ns-project/skills/import/SKILL.md": "bc9b615cb141d26f",
@@ -361,6 +361,7 @@
   "skills/gsd-ns-project/skills/milestone-summary/SKILL.md": "e3636a5e9bbaab1f",
   "skills/gsd-ns-project/skills/new-milestone/SKILL.md": "bc8989d97f3161ad",
   "skills/gsd-ns-project/skills/new-project/SKILL.md": "ff0d57491df30624",
+  "skills/gsd-ns-project/skills/onboard/SKILL.md": "d26b89e202d26512",
   "skills/gsd-ns-project/skills/profile-user/SKILL.md": "0406eed4dbd9560c",
   "skills/gsd-ns-project/skills/review-backlog/SKILL.md": "d8a150558cc9326a",
   "skills/gsd-ns-review/SKILL.md": "c5afe33c212947dd",
@@ -391,6 +392,5 @@
   "skills/gsd-ns-workflow/skills/quick/SKILL.md": "605e596c680cbb1c",
   "skills/gsd-ns-workflow/skills/spec-phase/SKILL.md": "19726b83ca2c3d2d",
   "skills/gsd-ns-workflow/skills/ultraplan-phase/SKILL.md": "8606e89121ffaba3",
-  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "584a3485842de0a4",
-  "skills/gsd-onboard/SKILL.md": "d26b89e202d26512"
+  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "584a3485842de0a4"
 }

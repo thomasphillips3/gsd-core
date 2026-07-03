@@ -262,7 +262,7 @@
   "gsd-core/workflows/next.md": "e044321fdd6b5e9c",
   "gsd-core/workflows/node-repair.md": "07a1628e5a1ff96b",
   "gsd-core/workflows/note.md": "42b66686b2c102cb",
-  "gsd-core/workflows/onboard.md": "ea1927ab121e985d",
+  "gsd-core/workflows/onboard.md": "0a16b8649b274410",
   "gsd-core/workflows/pause-work.md": "2c3abcaa1fa6d2e2",
   "gsd-core/workflows/plan-milestone-gaps.md": "419744c1191354af",
   "gsd-core/workflows/plan-phase.md": "e1dcabd0499a03f9",
@@ -373,7 +373,7 @@
   "skills/gsd/gsd-ns-manage/skills/update/SKILL.md": "433a236998c305b0",
   "skills/gsd/gsd-ns-manage/skills/workspace/SKILL.md": "d655afc6f16565ed",
   "skills/gsd/gsd-ns-manage/skills/workstreams/SKILL.md": "6893312eaf14dab0",
-  "skills/gsd/gsd-ns-project/SKILL.md": "3ff43fdc0e4a6d02",
+  "skills/gsd/gsd-ns-project/SKILL.md": "6b3af15e7c4441c9",
   "skills/gsd/gsd-ns-project/skills/audit-milestone/SKILL.md": "de0556f07d899e50",
   "skills/gsd/gsd-ns-project/skills/complete-milestone/SKILL.md": "180cccc09bf99444",
   "skills/gsd/gsd-ns-project/skills/import/SKILL.md": "bf781c7a0d83c2cd",
@@ -381,6 +381,7 @@
   "skills/gsd/gsd-ns-project/skills/milestone-summary/SKILL.md": "c4bda5737f1137f8",
   "skills/gsd/gsd-ns-project/skills/new-milestone/SKILL.md": "47586c1fc8aa0645",
   "skills/gsd/gsd-ns-project/skills/new-project/SKILL.md": "8f22ba75717b3c88",
+  "skills/gsd/gsd-ns-project/skills/onboard/SKILL.md": "753a474446ab2090",
   "skills/gsd/gsd-ns-project/skills/profile-user/SKILL.md": "5a8e01bc7b873a20",
   "skills/gsd/gsd-ns-project/skills/review-backlog/SKILL.md": "f3ef97da4e9b1d4c",
   "skills/gsd/gsd-ns-review/SKILL.md": "23fbadeca640e2bd",
@@ -411,6 +412,5 @@
   "skills/gsd/gsd-ns-workflow/skills/quick/SKILL.md": "65e377345e9c49a8",
   "skills/gsd/gsd-ns-workflow/skills/spec-phase/SKILL.md": "848cec32c341713c",
   "skills/gsd/gsd-ns-workflow/skills/ultraplan-phase/SKILL.md": "3a88dde399df4e63",
-  "skills/gsd/gsd-ns-workflow/skills/verify-work/SKILL.md": "3bedfdb2aeeb3804",
-  "skills/gsd/gsd-onboard/SKILL.md": "753a474446ab2090"
+  "skills/gsd/gsd-ns-workflow/skills/verify-work/SKILL.md": "3bedfdb2aeeb3804"
 }

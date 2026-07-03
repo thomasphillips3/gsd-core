@@ -262,7 +262,7 @@
   "gsd-core/workflows/next.md": "569c68513fd94ea7",
   "gsd-core/workflows/node-repair.md": "07a1628e5a1ff96b",
   "gsd-core/workflows/note.md": "acc9130fb1e94f0b",
-  "gsd-core/workflows/onboard.md": "4a31ffca8e30f674",
+  "gsd-core/workflows/onboard.md": "269b9aad7f25cf89",
   "gsd-core/workflows/pause-work.md": "09a6b8980f7b771a",
   "gsd-core/workflows/plan-milestone-gaps.md": "022822b3b6971b75",
   "gsd-core/workflows/plan-phase.md": "8eddecda8fcd8765",
@@ -350,7 +350,7 @@
   "skills/gsd-ns-manage/skills/update/SKILL.md": "2fc47bf059aa7b38",
   "skills/gsd-ns-manage/skills/workspace/SKILL.md": "257d17b9d20274d8",
   "skills/gsd-ns-manage/skills/workstreams/SKILL.md": "737841783c7fdd4f",
-  "skills/gsd-ns-project/SKILL.md": "5668e3a5e1d8896d",
+  "skills/gsd-ns-project/SKILL.md": "fac77a9e770fd655",
   "skills/gsd-ns-project/skills/audit-milestone/SKILL.md": "0ccabc5556d65d56",
   "skills/gsd-ns-project/skills/complete-milestone/SKILL.md": "a69d534b385d6aaf",
   "skills/gsd-ns-project/skills/import/SKILL.md": "a11e630bfd8ae4de",
@@ -358,6 +358,7 @@
   "skills/gsd-ns-project/skills/milestone-summary/SKILL.md": "9d408f56712ba948",
   "skills/gsd-ns-project/skills/new-milestone/SKILL.md": "7cbc011130e8590c",
   "skills/gsd-ns-project/skills/new-project/SKILL.md": "ff0d57491df30624",
+  "skills/gsd-ns-project/skills/onboard/SKILL.md": "b5a7478a2b916e15",
   "skills/gsd-ns-project/skills/profile-user/SKILL.md": "4f526120cda2f6cc",
   "skills/gsd-ns-project/skills/review-backlog/SKILL.md": "d8a150558cc9326a",
   "skills/gsd-ns-review/SKILL.md": "c5afe33c212947dd",
@@ -388,6 +389,5 @@
   "skills/gsd-ns-workflow/skills/quick/SKILL.md": "d81670625c884d2c",
   "skills/gsd-ns-workflow/skills/spec-phase/SKILL.md": "f773e17e1ae7fb35",
   "skills/gsd-ns-workflow/skills/ultraplan-phase/SKILL.md": "1cc863a090cdcc6b",
-  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "aae57a48a1b966ac",
-  "skills/gsd-onboard/SKILL.md": "b5a7478a2b916e15"
+  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "aae57a48a1b966ac"
 }

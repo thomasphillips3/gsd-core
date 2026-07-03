@@ -262,7 +262,7 @@
   "gsd-core/workflows/next.md": "80f2feb243818c90",
   "gsd-core/workflows/node-repair.md": "07a1628e5a1ff96b",
   "gsd-core/workflows/note.md": "42b66686b2c102cb",
-  "gsd-core/workflows/onboard.md": "ffe43ad118aadda6",
+  "gsd-core/workflows/onboard.md": "0ea64f52b3fd7887",
   "gsd-core/workflows/pause-work.md": "54f1c0a9e79e2c59",
   "gsd-core/workflows/plan-milestone-gaps.md": "1b820f4e70acce86",
   "gsd-core/workflows/plan-phase.md": "574fc8008416e6a7",
@@ -372,7 +372,7 @@
   "skills/gsd-ns-manage/skills/update/SKILL.md": "530b4206d729b56d",
   "skills/gsd-ns-manage/skills/workspace/SKILL.md": "047c3f4247bc869e",
   "skills/gsd-ns-manage/skills/workstreams/SKILL.md": "f4e54cb9b1ca0442",
-  "skills/gsd-ns-project/SKILL.md": "a58b3170197968be",
+  "skills/gsd-ns-project/SKILL.md": "5d7ec93b195555e7",
   "skills/gsd-ns-project/skills/audit-milestone/SKILL.md": "edb6a0cc6305d724",
   "skills/gsd-ns-project/skills/complete-milestone/SKILL.md": "f6799a5a713be7bb",
   "skills/gsd-ns-project/skills/import/SKILL.md": "88f83921a85e536b",
@@ -380,6 +380,7 @@
   "skills/gsd-ns-project/skills/milestone-summary/SKILL.md": "33d51a325d314f3a",
   "skills/gsd-ns-project/skills/new-milestone/SKILL.md": "ac99ffb8a966fe9d",
   "skills/gsd-ns-project/skills/new-project/SKILL.md": "9d5c27ebfa2c4746",
+  "skills/gsd-ns-project/skills/onboard/SKILL.md": "db206de96600b7c3",
   "skills/gsd-ns-project/skills/profile-user/SKILL.md": "78ca46045e85223f",
   "skills/gsd-ns-project/skills/review-backlog/SKILL.md": "1708aab6cb919223",
   "skills/gsd-ns-review/SKILL.md": "7badceb8627d8154",
@@ -410,6 +411,5 @@
   "skills/gsd-ns-workflow/skills/quick/SKILL.md": "bd5e4cb79bc41611",
   "skills/gsd-ns-workflow/skills/spec-phase/SKILL.md": "7e4dfa2070b7d9d1",
   "skills/gsd-ns-workflow/skills/ultraplan-phase/SKILL.md": "2d78c7b16aabebce",
-  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "4e7825f61f3cf69c",
-  "skills/gsd-onboard/SKILL.md": "db206de96600b7c3"
+  "skills/gsd-ns-workflow/skills/verify-work/SKILL.md": "4e7825f61f3cf69c"
 }
