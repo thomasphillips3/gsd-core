@@ -17,7 +17,7 @@ Claude session with the same prompt every iteration until the roadmap is complet
 iteration cap hits. Each iteration does exactly one PLAN.md task. All cross-iteration state lives
 in `.planning/` and git history — no conversation memory.
 
-This is the loop-engineering counterpart to `/gsd-autonomous`. Autonomous mode orchestrates phases
+This is the loop-engineering counterpart to GSD's autonomous mode. Autonomous mode orchestrates phases
 inside one session (accumulating orchestrator context, pausing for user decisions). The Ralph
 harness runs *outside* any session: each iteration is a brand-new process with a clean context
 window, so it survives crashes and context exhaustion, and runs fully unattended.

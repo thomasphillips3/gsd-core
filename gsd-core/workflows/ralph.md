@@ -246,10 +246,10 @@ for ((i=1; i<=MAX; i++)); do
   head_before="$(git rev-parse HEAD 2>/dev/null || echo none)"
   echo "[ralph] $MODE iteration $i/$MAX -> $log"
 
-  "$CLAUDE_BIN" -p "$(cat "$PROMPT_FILE")" \
+  "$CLAUDE_BIN" -p - \
     --dangerously-skip-permissions \
     ${RALPH_MODEL:+--model "$RALPH_MODEL"} \
-    2>&1 | tee "$log"
+    < "$PROMPT_FILE" 2>&1 | tee "$log"
 
   if grep -qF "$BLOCKED" "$log"; then
     echo "[ralph] BLOCKED after $i iteration(s) — see .planning/ralph/BLOCKED.md"
