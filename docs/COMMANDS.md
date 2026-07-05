@@ -843,6 +843,26 @@ Run all remaining phases autonomously.
 /gsd-autonomous --text              # Run with text-mode prompts
 ```
 
+### `/gsd-ralph`
+
+Generate a Ralph loop harness — an external fresh-context loop that grinds through phase plans unattended, one PLAN.md task per iteration.
+
+| Flag | Description |
+|------|-------------|
+| `--phase N` | Scope the build loop to phase N only |
+| `--regenerate` | Overwrite existing prompts and loop.sh (LEARNINGS.md preserved) |
+
+Writes `.planning/ralph/` (PROMPT-build.md, PROMPT-plan.md, loop.sh, LEARNINGS.md). The loop itself runs outside any session:
+
+```bash
+/gsd-ralph                              # Generate the harness
+/gsd-ralph --phase 3                    # Harness scoped to phase 3
+bash .planning/ralph/loop.sh build 25   # Run: max 25 build iterations
+bash .planning/ralph/loop.sh plan 3     # Run: plan repair (gap analysis)
+```
+
+Run the loop from a worktree or sandbox — it uses `--dangerously-skip-permissions`. Exit codes: 0 complete, 1 iteration cap, 2 blocked, 3 stalled. See `references/loop-engineering.md` for when to use this vs `/gsd-autonomous`.
+
 ### `/gsd-debug`
 
 Systematic debugging with persistent state.

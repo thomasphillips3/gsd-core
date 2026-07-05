@@ -117,6 +117,7 @@ These six routers are descriptor-only entries that the model picks first; the bo
 | `/gsd-manager` | Interactive command center for managing multiple phases from one terminal. | [commands/gsd/manager.md](../commands/gsd/manager.md) |
 | `/gsd-workstreams` | Manage parallel workstreams — list, create, switch, status, progress, complete, resume. | [commands/gsd/workstreams.md](../commands/gsd/workstreams.md) |
 | `/gsd-autonomous` | Run all remaining phases autonomously — discuss → plan → execute per phase. | [commands/gsd/autonomous.md](../commands/gsd/autonomous.md) |
+| `/gsd-ralph` | Generate a Ralph loop harness — external fresh-context loop that grinds through phase plans unattended. | [commands/gsd/ralph.md](../commands/gsd/ralph.md) |
 | `/gsd-undo` | Safe git revert — roll back phase or plan commits using the phase manifest. | [commands/gsd/undo.md](../commands/gsd/undo.md) |
 
 ### Session & Navigation
@@ -235,6 +236,7 @@ Full roster at `gsd-core/workflows/*.md`. Workflows are thin orchestrators that 
 | `profile-user.md` | Orchestrate the full developer profiling flow — consent, session scan, profile generation. | `/gsd-profile-user` |
 | `progress.md` | Progress rendering — project context, position, and next-action routing. | `/gsd-progress` |
 | `quick.md` | Quick-task execution with GSD guarantees (atomic commits, state tracking). | `/gsd-quick` |
+| `ralph.md` | Generate the Ralph loop harness (iteration prompts, loop.sh, learnings seed) under `.planning/ralph/`. | `/gsd-ralph` |
 | `reapply-patches.md` | Reapply local modifications after a GSD update. | `/gsd-update --reapply` |
 | `remove-phase.md` | Remove a future phase from the roadmap and renumber subsequent phases. | `/gsd-phase --remove` |
 | `remove-workspace.md` | Remove a GSD workspace and clean up worktrees. | `/gsd-workspace --remove` |
@@ -316,6 +318,7 @@ Full roster at `gsd-core/references/*.md`. References are shared knowledge docum
 | `scout-codebase.md` | Phase-type→codebase-map selection table for discuss-phase scout step (extracted via the discuss-phase/modes progressive-disclosure split, #717). |
 | `revision-loop.md` | Plan revision iteration patterns. |
 | `reviewer-instances.md` | Custom reviewer instances for `/gsd-review` (#1517) — same-adapter multi-model review: config shape, resolution rules, invocation, and the REVIEWS.md contract. Lazily loaded by `review.md` when `review.reviewer_instances` is configured. |
+| `loop-engineering.md` | Outer-loop principles (fresh context, one task per loop, backpressure, sentinels) behind `/gsd-ralph`. |
 | `universal-anti-patterns.md` | Universal anti-patterns to detect and avoid. |
 | `worktree-branch-check.md` | Canonical spawn-time worktree HEAD/base guard (worktree_branch_check): verify-only and fail-closed — per-agent-branch assertion, protected-ref refusal (#2924), and an exact-base assertion that halts with `exit 42` on mismatch so the orchestrator (worktree lifecycle owner) performs recovery (#48). Embedded into worktree sub-agent prompts at dispatch. |
 | `worktree-path-safety.md` | Worktree guard suite: HEAD assertion, cwd-drift sentinel (step 0a, #3097), and absolute-path guard (step 0b, #3099) — loaded into executor spawn prompts via `<execution_context>`. |
